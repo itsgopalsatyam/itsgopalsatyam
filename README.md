@@ -2,7 +2,7 @@
 
 I'm a designer and developer who loves building high-utility systems, automating tedious workflows, and crafting exceptional user experiences. I work across frontend development, custom automation scripts, and server-side hardware configurations.
 
-![Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsgopalsatyam&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![Gopal's Trophies](https://github-profile-trophy.vercel.app/?username=itsgopalsatyam&theme=onedark&column=5&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
